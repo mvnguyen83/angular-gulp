@@ -1,0 +1,19 @@
+{
+  "name": "angular-gulp",
+  "description": "Angular Gulp Starter",
+  "main": "",
+  "authors": [
+    "Michael V Nguyen <mvnguyen83@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "gulp", 
+    "jquery"
+  ],
+  "homepage": "mvnguyen.com",
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "angular": "^1.5.4"
+  }
+}
