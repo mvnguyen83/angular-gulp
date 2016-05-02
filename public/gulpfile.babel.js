@@ -60,7 +60,8 @@ let src = {
     ],
   app: [ 
     appSrc + 'app.module.js', 
-    appSrc + '**/**/*.js'
+    appSrc + '**/**/*.js', // Declare specific folders i.e. components/**/*.js
+    appSrc + 'app.templates.js'
     ],
   htmlTemplates: appSrc + '**/**/*.html',
   htmlify: 'src/views/*.html',
